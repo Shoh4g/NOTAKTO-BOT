@@ -11,5 +11,9 @@ Notakto is an impartial game, where the allowable moves depend only on the state
 When played across multiple boards it is a disjunctive game.[2] 
 The game is attributed to professor and backgammon player Bob Koca, who is said to have invented the game in 2010, when his five-year-old nephew suggested playing a game of tic-tac-toe with both players as "X".[1]
 
+More about this game can be found here.
+https://en.wikipedia.org/wiki/Notakto
+
+
 Here my program is an AI which plays against the user. The aim of the AI is to analyse every move of the user and place its move accordingly. 
 Its impossible to beat the AI implemented in this game.
